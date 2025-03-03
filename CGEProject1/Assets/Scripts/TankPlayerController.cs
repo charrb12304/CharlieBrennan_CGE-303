@@ -20,7 +20,7 @@ public class TankPlayerController : MonoBehaviour
     {
 
         //Move forward
-        //transform.Translate(0,1,0);
+        //transform.Translate(1,0);
 
         //transform.Translate(Vector2.right);
 
@@ -34,6 +34,6 @@ public class TankPlayerController : MonoBehaviour
         transform.Translate(Vector2.right * Time.deltaTime * speed * verticalInput);
 
         //Rotate the player with horizontal input
-        transform.Rotate(Vector3.forward, turnSpeed * Time.deltaTime * horizontalInput);
+        transform.Rotate(Vector3.back, turnSpeed * Time.deltaTime * horizontalInput);
     }
 }
