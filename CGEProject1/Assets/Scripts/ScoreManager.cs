@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ScoreManager : MonoBehaviour
@@ -11,29 +11,28 @@ public class ScoreManager : MonoBehaviour
     public static int score;
 
     public TMP_Text textbox;
-    public int scoreToWin;
-
-    private void Start()
+    public int scoreToWin = 10;
+    void Start()
     {
         gameOver = false;
         won = false;
         score = 0;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        if (!gameOver)
+       if (!gameOver)
         {
             textbox.text = "Score: " + score;
         }
-        if (score >= scoreToWin)
+
+       if (score >= scoreToWin)
         {
             won = true;
             gameOver = true;
         }
 
-        if (gameOver)
+       if (gameOver)
         {
             if (won)
             {
@@ -49,6 +48,4 @@ public class ScoreManager : MonoBehaviour
             }
         }
     }
-    
 }
-

@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TankPlayerStarter.unity
     guid: 1105473c005a033468aa355e7d215629
+  - enabled: 1
+    path: Assets/Scenes/PlatformerStart.unity
+    guid: bfb1411eabc3542459e3756621313cc6
   m_configObjects: {}
