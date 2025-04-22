@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\scripts\\loseonfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loseonfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreTriggerZone.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\ScoreTriggerZone.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScoreTriggerZone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:44:57.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoseOnFall.cs",
-              "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\LoseOnFall.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LoseOnFall.cs",
-              "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\LoseOnFall.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LoseOnFall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:16:46.095Z",
+              "WhenOpened": "2025-04-21T22:54:00.641Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +41,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformerPlayerController.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlatformerPlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformerPlayerController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:34:01.38Z",
+              "WhenOpened": "2025-04-21T22:52:47.037Z",
               "EditorCaption": ""
             }
           ]

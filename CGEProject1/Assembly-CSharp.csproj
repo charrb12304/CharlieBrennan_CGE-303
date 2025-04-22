@@ -57,12 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TankPlayerController.cs" />
-    <Compile Include="Assets\Scripts\ScoreTriggerZone.cs" />
+    <Compile Include="Assets\Scripts\PlatformerPlayerController.cs" />
     <Compile Include="Assets\Scripts\CamFollowPlayer.cs" />
     <Compile Include="Assets\Scripts\TriggerZone.cs" />
-    <Compile Include="Assets\Scripts\ScoreManager.cs" />
-    <Compile Include="Assets\Scripts\PlatformerPlayerController.cs" />
     <Compile Include="Assets\Scripts\LoseOnFall.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\ScoreTriggerZone.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

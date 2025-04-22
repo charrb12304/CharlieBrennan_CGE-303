@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -15,6 +16,7 @@ public class PlatformerPlayerController : MonoBehaviour
     private float horizontalInput;
 
     public AudioClip jumpSound;
+    public AudioClip coinSound;
 
     private AudioSource playerAudio;
 
@@ -27,7 +29,8 @@ public class PlatformerPlayerController : MonoBehaviour
         playerAudio = GetComponent<AudioSource>();
 
         if (groundCheck == null)
-        { Debug.LogError("GroundCheck not assigned to the player controller!"); 
+        {
+            Debug.LogError("GroundCheck not assigned to the player controller!");
         }
     }
 
@@ -56,5 +59,10 @@ public class PlatformerPlayerController : MonoBehaviour
         {
             transform.localScale = new Vector3(-1f, 1f, 1f);
         }
+    }
+
+    public void PlayCoinSound()
+    {
+        playerAudio.PlayOneShot(coinSound, 1.0f);
     }
 }
