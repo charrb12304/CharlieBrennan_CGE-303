@@ -20,6 +20,8 @@ public class PlatformerPlayerController : MonoBehaviour
 
     private AudioSource playerAudio;
 
+    private Animator animator;
+
 
     // Start is called before the first frame update
     void Start()
@@ -27,6 +29,7 @@ public class PlatformerPlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
 
         playerAudio = GetComponent<AudioSource>();
+        animator = GetComponent<Animator>();
 
         if (groundCheck == null)
         {
@@ -48,16 +51,22 @@ public class PlatformerPlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
+        if (!PlayerHealth.hitRecently)
+        {
+            rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
+        }
+        animator.SetFloat("yVelocity", rb.velocity.y);
+
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        animator.SetBool("onGround", isGrounded);
 
         if (horizontalInput > 0)
         {
-            transform.localScale = new Vector3(1f, 1f, 1f);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         else if (horizontalInput < 0)
         {
-            transform.localScale = new Vector3(-1f, 1f, 1f);
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
     }
 
