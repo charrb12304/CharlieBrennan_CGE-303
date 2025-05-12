@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\scripts\\enemymovewalkingchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovewalkingchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\displaybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displaybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\destroyselfafterdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyselfafterdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\playsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\displaybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displaybar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +42,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EnemyMoveWalkingChase.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\EnemyMoveWalkingChase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMoveWalkingChase.cs",
+              "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\EnemyMoveWalkingChase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMoveWalkingChase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:05:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaySounds.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlaySounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySounds.cs",
+              "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlaySounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaySounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:32:24.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlatformerPlayerController.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlatformerPlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformerPlayerController.cs",
@@ -56,56 +89,56 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwEIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T18:55:25.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DisplayBar.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DisplayBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DisplayBar.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DisplayBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\DisplayBar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T18:32:40.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DestroySelfAfterDelay.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DestroySelfAfterDelay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroySelfAfterDelay.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DestroySelfAfterDelay.cs",
               "RelativeToolTip": "Assets\\Scripts\\DestroySelfAfterDelay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T18:07:20.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T17:52:56.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T17:28:12.754Z"
             }

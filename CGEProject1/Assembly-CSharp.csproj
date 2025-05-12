@@ -60,16 +60,18 @@
     <Compile Include="Assets\Scripts\PlatformerPlayerController.cs" />
     <Compile Include="Assets\Scripts\CamFollowPlayer.cs" />
     <Compile Include="Assets\Scripts\TriggerZone.cs" />
-    <Compile Include="Assets\Scripts\LoseOnFall.cs" />
-    <Compile Include="Assets\Scripts\ScoreManager.cs" />
-    <Compile Include="Assets\Scripts\ScoreTriggerZone.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scripts\ShootBullet.cs" />
-    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\DestroySelfAfterDelay.cs" />
-    <Compile Include="Assets\Scripts\DisplayBar.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\ShootBullet.cs" />
+    <Compile Include="Assets\Scripts\LoseOnFall.cs" />
     <Compile Include="Assets\Scripts\PlaySounds.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\DisplayBar.cs" />
+    <Compile Include="Assets\Scripts\ScoreTriggerZone.cs" />
+    <Compile Include="Assets\Scripts\EnemyMoveWalkingChase.cs" />
+    <Compile Include="Assets\PlaySound.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

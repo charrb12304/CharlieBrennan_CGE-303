@@ -55,6 +55,7 @@ public class PlatformerPlayerController : MonoBehaviour
         {
             rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
         }
+        animator.SetFloat("xVelocityAbs", Mathf.Abs(rb.velocity.x));
         animator.SetFloat("yVelocity", rb.velocity.y);
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
