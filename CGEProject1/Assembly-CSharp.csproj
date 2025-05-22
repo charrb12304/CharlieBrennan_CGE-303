@@ -57,6 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TankPlayerController.cs" />
+    <Compile Include="Assets\PlaySound.cs" />
+    <Compile Include="Assets\Scripts\EnemyMoveWalkingChase.cs" />
     <Compile Include="Assets\Scripts\PlatformerPlayerController.cs" />
     <Compile Include="Assets\Scripts\CamFollowPlayer.cs" />
     <Compile Include="Assets\Scripts\TriggerZone.cs" />
@@ -70,8 +72,7 @@
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\DisplayBar.cs" />
     <Compile Include="Assets\Scripts\ScoreTriggerZone.cs" />
-    <Compile Include="Assets\Scripts\EnemyMoveWalkingChase.cs" />
-    <Compile Include="Assets\PlaySound.cs" />
+    <Compile Include="Assets\EnemyMoveFlyingPatrolChase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

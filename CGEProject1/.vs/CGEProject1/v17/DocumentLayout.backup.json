@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\playsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\playsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|c:\\unityprojects\\charliebrennancge\\cgeproject1\\assets\\scripts\\enemymovewalkingchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\enemymovewalkingchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovewalkingchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46F3D22-D8B6-7E09-95D7-3B98F477DB45}|Assembly-CSharp.csproj|C:\\UnityProjects\\charliebrennancge\\CGEProject1\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlaySound.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\PlaySound.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaySound.cs",
+              "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\PlaySound.cs",
+              "RelativeToolTip": "Assets\\PlaySound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:41:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EnemyMoveWalkingChase.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\EnemyMoveWalkingChase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMoveWalkingChase.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyMoveWalkingChase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T02:05:22.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T02:05:22.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlaySounds.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlaySounds.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySounds.cs",
@@ -71,19 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlatformerPlayerController.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlatformerPlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformerPlayerController.cs",
               "ToolTip": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlatformerPlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformerPlayerController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T19:08:17.689Z"
+              "WhenOpened": "2025-04-29T19:08:17.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DisplayBar.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DisplayBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DisplayBar.cs",
@@ -108,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DestroySelfAfterDelay.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\DestroySelfAfterDelay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroySelfAfterDelay.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\UnityProjects\\charliebrennancge\\CGEProject1\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",

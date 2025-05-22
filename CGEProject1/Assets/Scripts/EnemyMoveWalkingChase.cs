@@ -13,12 +13,14 @@ public class EnemyMoveWalkingChase : MonoBehaviour
     private Transform playerTransform;
     private Rigidbody2D rb;
     private Animator anim;
+    private SpriteRenderer sr;
 
     private void Start()
     {
      rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         playerTransform = GameObject.FindWithTag("Player").transform;
+        sr = GetComponent<SpriteRenderer>();
     }
     private void Update()
     {
@@ -36,7 +38,12 @@ public class EnemyMoveWalkingChase : MonoBehaviour
             else
             {
                 StopMoving();
+                
             }
+        }
+        else
+        {
+            StopMoving();
         }
     }
     bool IsGroundAhead()
@@ -51,11 +58,11 @@ public class EnemyMoveWalkingChase : MonoBehaviour
     {
         if (playerDirection.x < 0)
         {
-            transform.rotation = Quaternion.Euler(0, 0, 0);
+            sr.flipX = false;
         }
         else
         {
-            transform.rotation = Quaternion.Euler(0, 180, 0);
+            sr.flipX = true;
         }
     }
     private void MoveTowardsPlayer(Vector2 playerDirection)
